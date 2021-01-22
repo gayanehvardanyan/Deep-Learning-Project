@@ -4,4 +4,5 @@ This repository was created for a Deep Learning project focusing on the creation
 Editors: 
 
 Gayane Vardanyan
+
 Yu Hsuan Chen
