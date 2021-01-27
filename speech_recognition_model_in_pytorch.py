@@ -306,7 +306,7 @@ this will download the data on first run and may take a while.
 
 learning_rate = 5e-4
 batch_size = 20
-epochs = 10
+epochs = 20
 libri_train_set = "train-clean-100"
 libri_test_set = "test-clean"
 
